@@ -76,3 +76,12 @@ class _AnimatedWidgetExampleState extends State<AnimatedWidgetExample>
     return SpinningContainer(controller: _controller);
   }
 }
+
+
+
+
+
+
+
+
+
